@@ -498,11 +498,6 @@ body {
     object-fit: cover;
 }
 
-.container .right main .projectsCard .groupimage a:last-child  .number{
-    color: #999;
-    font-size: 1.2em;
-}
-
 .container .right main .projectsCard .task{
     position: relative;
     width: 100%;
